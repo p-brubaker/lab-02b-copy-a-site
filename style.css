@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-direction: column;
+}
+
+header {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    background-color: lightblue;
+    min-width: 100%;
+}
+
+ul {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+}
